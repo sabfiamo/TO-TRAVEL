@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.ca9601ee.css",
-    "main.js": "/static/js/main.9cb76741.js",
-    "static/media/dona-02.jpg": "/static/media/dona-02.f3fb0a3032a436c03900.jpg",
-    "static/media/muffins-01.jpg": "/static/media/muffins-01.537a871c8f938e03e03d.jpg",
-    "static/media/muffins-02.jpg": "/static/media/muffins-02.7a62ccc0daa12f283dc2.jpg",
-    "static/media/dona-01.jpg": "/static/media/dona-01.7fc38eb1d75c4e35044d.jpg",
+    "main.css": "/static/css/main.85573e53.css",
+    "main.js": "/static/js/main.f7e5634c.js",
+    "static/media/paris.jpg": "/static/media/paris.8dbad16ad713a3d8588c.jpg",
+    "static/media/dubai.jpg": "/static/media/dubai.64084bbf0e40593e54c3.jpg",
+    "static/media/venecia.jpg": "/static/media/venecia.7bbddd414d542cddc379.jpg",
+    "static/media/St. Petersburg.jpg": "/static/media/St. Petersburg.e81b5999be7f32adc78b.jpg",
+    "static/media/londres.jpeg": "/static/media/londres.ce93b52a8d5f4e89d36e.jpeg",
+    "static/media/roma.jpeg": "/static/media/roma.60571e962e6a5f405334.jpeg",
+    "static/media/tailandia.jpg": "/static/media/tailandia.1c4810fec02db0190d00.jpg",
+    "static/media/nueva york.jpeg": "/static/media/nueva york.82ccd4d18567530ef388.jpeg",
     "index.html": "/index.html",
-    "main.ca9601ee.css.map": "/static/css/main.ca9601ee.css.map",
-    "main.9cb76741.js.map": "/static/js/main.9cb76741.js.map"
+    "main.85573e53.css.map": "/static/css/main.85573e53.css.map",
+    "main.f7e5634c.js.map": "/static/js/main.f7e5634c.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca9601ee.css",
-    "static/js/main.9cb76741.js"
+    "static/css/main.85573e53.css",
+    "static/js/main.f7e5634c.js"
   ]
 }
